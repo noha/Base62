@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "NorbertHartl 6/12/2014 11:48",
+	"super" : "Object",
+	"category" : "Base62",
+	"classinstvars" : [
+		"Characters"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Base36",
+	"type" : "normal"
+}

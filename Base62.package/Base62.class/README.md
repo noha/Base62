@@ -1,0 +1,1 @@
+I'm like Base36. For conversion I use an alphabet containing also uppercase letters. Using a larger alphabet I produce shorter string representations that are case sensitive. 
